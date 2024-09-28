@@ -53,7 +53,13 @@ Sou um **Desenvolvedor Magento 2** com foco em **PHP** e especializado no desenv
 ---
 
 ## 🧩 **Sobre Mim**:
-Sou formado em **Análise e Desenvolvimento de Sistemas** pela Faculdade Cearense e pós-graduado em **Desenvolvimento Web Full Stack** pela Anhanguera. Minha trajetória profissional inclui experiência em empresas como **Grupo Rio Branco**, **Ioasys** e **Bleez E-commerce**, onde trabalhei no desenvolvimento e manutenção de soluções personalizadas de e-commerce utilizando **Magento 2** e outras tecnologias relacionadas.
+Olá! Eu sou Lailson Sousa, formado em **Análise e Desenvolvimento de Sistemas** pela Faculdade Cearense e pós-graduado em **Desenvolvimento Web Full Stack** pela Anhanguera. Tenho mais de 3 anos de experiência trabalhando com Magento, e sou apaixonado por tecnologia e pelos desafios que ela propõe.
+
+Minha trajetória profissional inclui experiência em empresas como **Grupo Rio Branco**, **Ioasys**, e **Bleez E-commerce**, onde atuei no desenvolvimento e na manutenção de soluções personalizadas de e-commerce, utilizando **Magento 2** e diversas tecnologias relacionadas. Nessas empresas, trabalhei com o desenvolvimento de funcionalidades específicas, integrações de APIs, otimização de performance e segurança para lojas virtuais.
+
+Durante minha carreira, desenvolvi habilidades sólidas em PHP, integração de APIs, otimização de performance e segurança. Sou movido pela busca por soluções eficientes e pela entrega de código de qualidade, além de estar sempre em constante aprendizado, pronto para novos desafios.
+
+Acredito que a tecnologia tem o poder de transformar negócios e melhorar a vida das pessoas, e isso me inspira diariamente.
 
 ---
 
